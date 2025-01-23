@@ -3,6 +3,7 @@ const path = require('path');
 const integrations = require('../integrations.json');
 const { keys, difference } = require('ramda');
 
+console.log("");
 console.log("Validate Logos");
 console.log("==============");
 console.log("");

@@ -3,6 +3,7 @@ const path = require('path');
 const integrations = require('../integrations.json');
 const { keys, difference } = require('ramda');
 
+console.log("");
 console.log("Validate Integrations");
 console.log("=====================");
 console.log("");
@@ -23,6 +24,7 @@ try {
   } else {
     console.log(`✅ All integrations defined in integrations.json`);
   }
+  console.log("");
 
   if (missingIntegrations.length > 0) {
     process.exit(1);
