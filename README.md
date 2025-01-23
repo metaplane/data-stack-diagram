@@ -21,7 +21,7 @@ New entries should be added alphabetically.
 
 Each logo should meet the following criteria.
 
-- be an SVG named `svg/{logo}.svg` where `{logo}` matches the key in `logo.json`
+- be an SVG file named `svg/{logo}.svg` where `{logo}` matches the key in `logo.json`
 - has a matching entry in `logos.json`
 - be 400px by 400px
 - have a transparent background
