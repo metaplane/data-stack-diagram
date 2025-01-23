@@ -3,8 +3,8 @@ const path = require('path');
 const integrations = require('../integrations.json');
 const { keys, difference } = require('ramda');
 
-console.log("Check Integrations");
-console.log("==================");
+console.log("Validate Logos");
+console.log("==============");
 console.log("");
 
 const logosPath = path.resolve(__dirname, '..', 'logos');
@@ -13,18 +13,19 @@ try {
   const files = fs.readdirSync(logosPath);
   const logoNames = files.map(fileName => fileName.replace(/\.svg$/, ''));
   const integrationNames = keys(integrations);
-  const missingIntegrations = difference(logoNames, integrationNames);
-  if (missingIntegrations.length > 0) {
-    console.log(`❌ ${missingIntegrations.length} integration${missingIntegrations.length === 1 ? '' : 's'} missing in integrations.json`);
+  const missingLogos = difference(integrationNames, logoNames);
+  if (missingLogos.length > 0) {
+    console.log(`❌ ${missingLogos.length} logo${missingLogos.length === 1 ? '' : 's'} missing from ./logos`);
     console.log("");
-    for (const integration of missingIntegrations) {
-      console.log(`    - ${integration}`);
+    for (const logo of missingLogos) {
+      console.log(`    - logo/${logo}.svg`);
     }
   } else {
-    console.log(`✅ All integrations defined in integrations.json`);
+    console.log(`✅ All logos defined in ./logos`);
   }
+  console.log("");
 
-  if (missingIntegrations.length > 0) {
+  if (missingLogos.length > 0) {
     process.exit(1);
   } else {
     process.exit(0);
