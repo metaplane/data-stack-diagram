@@ -80,11 +80,11 @@
     "category": "Business Intelligence"
   },
   "msexcel": {
-    "name": "Excel",
+    "name": "Microsoft Excel",
     "category": "Source System"
   },
   "msteams": {
-    "name": "Teams",
+    "name": "Microsoft Teams",
     "category": "Communication"
   },
   "mysql": {
@@ -124,7 +124,7 @@
     "category": "Database"
   },
   "sqlserver": {
-    "name": "SQL Server",
+    "name": "Microsoft SQL Server",
     "category": "Database"
   },
   "tableau": {
