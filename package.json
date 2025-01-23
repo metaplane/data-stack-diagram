@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node validate.js"
+    "test": "node validate/logos.js && node validate/svgs.js"
   },
   "keywords": [],
   "author": "",

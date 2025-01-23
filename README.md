@@ -1,12 +1,12 @@
 # data-stack-diagram
 
-This project defines what logos are available on https://www.datastackdiagram.com/
+This project defines the logos that are available on https://www.datastackdiagram.com/
 
 ## Contributing
 
-To add a new integration, open a PR that includes the following updates.
+To add a new logo, open a PR that includes the following updates.
 
-### Add an entry to `integration.json`
+### Add an entry to `logos.json`
 
 New entries should be added alphabetically.
 
@@ -21,8 +21,8 @@ New entries should be added alphabetically.
 
 Each logo should meet the following criteria.
 
-- be an SVG named `logo/{integration}.svg` where `{integration}` matches the key in `integrations.json`
-- have an entry in [SuperBrandIconUrls](https://github.com/metaplane/metaplane-frontend/blob/29dadf4f98ab684612f7d0afd480587dc9b173dd/packages/super/src/SuperIcon/SuperBrandIcon.tsx#L29)
+- be an SVG named `svg/{logo}.svg` where `{logo}` matches the key in `logo.json`
+- has a matching entry in `logos.json`
 - be 400px by 400px
 - have a transparent background
 - be centered and fit as tightly as possible to the 400x400 box

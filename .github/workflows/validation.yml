@@ -6,31 +6,6 @@ on:
       - main
 
 jobs:
-  integrations:
-    runs-on: ubuntu-22.04
-    strategy:
-      matrix:
-        node-version: [18]
-    steps:
-    - uses: actions/checkout@v4
-
-    - name: Install pnpm
-      uses: pnpm/action-setup@v4
-      with:
-        version: 8
-
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v4
-      with:
-        node-version: ${{ matrix.node-version }}
-        cache: 'pnpm'
-
-    - name: Install dependencies
-      run: pnpm install
-
-    - name: Run validation script
-      run: node validate/integrations.js
-
   logos:
     runs-on: ubuntu-22.04
     strategy:
@@ -55,3 +30,28 @@ jobs:
 
     - name: Run validation script
       run: node validate/logos.js
+
+  svgs:
+    runs-on: ubuntu-22.04
+    strategy:
+      matrix:
+        node-version: [18]
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Install pnpm
+      uses: pnpm/action-setup@v4
+      with:
+        version: 8
+
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'pnpm'
+
+    - name: Install dependencies
+      run: pnpm install
+
+    - name: Run validation script
+      run: node validate/svgs.js
