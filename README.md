@@ -1,5 +1,4 @@
 # data-stack-diagram
-testing
 
 This project defines what logos are available on https://www.datastackdiagram.com/
 
