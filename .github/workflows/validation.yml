@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  validate:
+  check-integrations:
     runs-on: ubuntu-22.04
     strategy:
       matrix:
@@ -30,4 +30,30 @@ jobs:
       run: pnpm install
 
     - name: Run validation script
-      run: node validate.js
+      run: node bin/check-integrations.js
+
+  check-logos:
+    runs-on: ubuntu-22.04
+    strategy:
+      matrix:
+        node-version: [18]
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Install pnpm
+      uses: pnpm/action-setup@v4
+      with:
+        version: 8
+
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'pnpm'
+
+    - name: Install dependencies
+      run: pnpm install
+
+    - name: Run validation script
+      run: node bin/check-logos.js
