@@ -35,6 +35,8 @@ jobs:
         node-version: [18]
     needs: setup-node
     steps:
+    - name: Debug dir
+      run: pwd && ls -lha
     - name: Run validation script
       run: node bin/check-integrations.js
 
@@ -45,5 +47,7 @@ jobs:
         node-version: [18]
     needs: setup-node
     steps:
+    - name: Debug dir
+      run: pwd && ls -lha
     - name: Run validation script
       run: node bin/check-logos.js
