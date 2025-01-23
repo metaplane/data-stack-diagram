@@ -1,11 +1,12 @@
 const fs = require('fs');
+const jsonDiff = require('json-diff');
 const path = require('path');
 const logos = require('../logos.json');
-const { keys, difference } = require('ramda');
+const { keys, difference, equals, sort } = require('ramda');
 
 console.log("");
-console.log("Validate Logos");
-console.log("==============");
+console.log("Validate logos.json");
+console.log("===================");
 console.log("");
 
 const svgsPath = path.resolve(__dirname, '..', 'svgs');
@@ -23,6 +24,19 @@ try {
     }
   } else {
     console.log(`✅ All logos defined in logos.json`);
+  }
+  console.log("");
+
+  const sortDiff = jsonDiff.diffString(
+    logoNames,
+    sort((a, b) => a.localeCompare(b), logoNames)
+  );
+  if (sortDiff.trim()) {
+    console.log(`❌ logos.json is not in alphabetical order`);
+    console.log("");
+    console.log(sortDiff);
+  } else {
+    console.log(`✅ logos.json is in alphabetical order`);
   }
   console.log("");
 

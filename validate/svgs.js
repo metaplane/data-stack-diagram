@@ -16,13 +16,13 @@ try {
   const logoNames = keys(logos);
   const missingSVGs = difference(logoNames, svgNames);
   if (missingSVGs.length > 0) {
-    console.log(`❌ ${missingSVGs.length} logo${missingSVGs.length === 1 ? '' : 's'} missing from ./svgs/`);
+    console.log(`❌ ${missingSVGs.length} logo${missingSVGs.length === 1 ? '' : 's'} missing from /svgs directory`);
     console.log("");
     for (const logo of missingSVGs) {
       console.log(`    - svgs/${logo}.svg`);
     }
   } else {
-    console.log(`✅ All logos defined in ./svg/`);
+    console.log(`✅ All logos defined in /svgs directory`);
   }
   console.log("");
 
