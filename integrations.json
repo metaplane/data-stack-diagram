@@ -95,6 +95,10 @@
     "name": "PagerDuty",
     "category": "Communication"
   },
+  "powerbi": {
+    "name": "Power BI",
+    "category": "Business Intelligence"
+  },
   "postgres": {
     "name": "PostgresSQL",
     "category": "Database"
