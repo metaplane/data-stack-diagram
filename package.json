@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "json-diff": "^1.0.6",
     "ramda": "^0.30.1",
     "zod": "^3.24.1"
