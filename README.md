@@ -8,14 +8,14 @@ To add a new logo, open a PR that includes the following updates.
 
 ### Add an entry to `logos.json`
 
-New entries should be added alphabetically.
-
 ```json
   "newentry": {
     "name": "New Entry",
     "category": "Database"
   },
 ```
+
+Create new entries in alphabetical order.
 
 ### Add a Logo
 
