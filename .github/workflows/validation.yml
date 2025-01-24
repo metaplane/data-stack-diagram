@@ -13,8 +13,7 @@ jobs:
     name: "validate logos"
     runs-on: ubuntu-22.04
     strategy:
-      matrix:
-        node-version: [18]
+      node-version: 18
     steps:
     - uses: actions/checkout@v4
 
@@ -39,8 +38,7 @@ jobs:
     name: "validate svgs"
     runs-on: ubuntu-22.04
     strategy:
-      matrix:
-        node-version: [18]
+      node-version: 18
     steps:
     - uses: actions/checkout@v4
 
