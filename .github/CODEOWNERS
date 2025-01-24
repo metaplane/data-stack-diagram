@@ -1,0 +1,7 @@
+# mp frontend owns everything...
+* @metaplane/frontend
+
+# ... except these
+/README.md
+/logos.json
+/svgs
