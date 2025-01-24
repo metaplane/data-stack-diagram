@@ -75,6 +75,10 @@
     "name": "Metabase",
     "category": "Business Intelligence"
   },
+  "metaplane": {
+    "name": "Metaplane",
+    "category": "Data Observability"
+  },
   "mode": {
     "name": "Mode",
     "category": "Business Intelligence"
