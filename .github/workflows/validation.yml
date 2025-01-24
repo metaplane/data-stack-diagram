@@ -12,8 +12,6 @@ jobs:
   logos:
     name: "validate logos"
     runs-on: ubuntu-22.04
-    strategy:
-      node-version: 18
     steps:
     - uses: actions/checkout@v4
 
@@ -25,7 +23,7 @@ jobs:
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v4
       with:
-        node-version: ${{ matrix.node-version }}
+        node-version: 18
         cache: 'pnpm'
 
     - name: Install dependencies
@@ -37,8 +35,6 @@ jobs:
   svgs:
     name: "validate svgs"
     runs-on: ubuntu-22.04
-    strategy:
-      node-version: 18
     steps:
     - uses: actions/checkout@v4
 
@@ -47,10 +43,10 @@ jobs:
       with:
         version: 8
 
-    - name: Use Node.js ${{ matrix.node-version }}
+    - name: Use Node.js
       uses: actions/setup-node@v4
       with:
-        node-version: ${{ matrix.node-version }}
+        node-version: 18
         cache: 'pnpm'
 
     - name: Install dependencies
