@@ -1,4 +1,4 @@
-name: test
+name: validate
 
 on:
   pull_request:
@@ -10,7 +10,7 @@ on:
 
 jobs:
   logos:
-    name: "validate logos"
+    name: "logos"
     runs-on: ubuntu-22.04
     steps:
     - uses: actions/checkout@v4
@@ -33,7 +33,7 @@ jobs:
       run: node validate/logos.js
 
   svgs:
-    name: "validate svgs"
+    name: "svgs"
     runs-on: ubuntu-22.04
     steps:
     - uses: actions/checkout@v4
