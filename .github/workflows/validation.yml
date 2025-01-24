@@ -10,6 +10,7 @@ on:
 
 jobs:
   logos:
+    name: "validate logos"
     runs-on: ubuntu-22.04
     strategy:
       matrix:
@@ -35,6 +36,7 @@ jobs:
       run: node validate/logos.js
 
   svgs:
+    name: "validate svgs"
     runs-on: ubuntu-22.04
     strategy:
       matrix:
