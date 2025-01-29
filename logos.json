@@ -31,6 +31,10 @@
     "name": "dbt",
     "category": "Transform"
   },
+  "erathos": {
+    "name": "Erathos",
+    "category": "ETL"
+  },
   "fivetran": {
     "name": "Fivetran",
     "category": "ETL"
