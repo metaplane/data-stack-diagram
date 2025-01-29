@@ -134,5 +134,9 @@
   "tableau": {
     "name": "Tableau",
     "category": "Business Intelligence"
+  },
+  "trino": {
+    "name": "Trino",
+    "category": "Database"
   }
 }
