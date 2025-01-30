@@ -127,6 +127,10 @@
     "name": "Omni",
     "category": "Business Intelligence"
   },
+  "oracle": {
+    "name": "Oracle",
+    "category": "Database"
+  },
   "openmetadata": {
     "name": "OpenMetadata",
     "category": "Data Catalog"
@@ -146,6 +150,10 @@
   "redshift": {
     "name": "Redshift",
     "category": "Database"
+  },
+  "salesforce": {
+    "name": "Salesforce",
+    "category": "CRM"
   },
   "segment": {
     "name": "Segment",
