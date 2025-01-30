@@ -131,6 +131,10 @@
     "name": "Microsoft SQL Server",
     "category": "Database"
   },
+  "streamkap": {
+    "name": "Streamkap",
+    "category": "ETL"
+  },
   "tableau": {
     "name": "Tableau",
     "category": "Business Intelligence"
