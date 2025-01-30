@@ -99,6 +99,10 @@
     "name": "Looker",
     "category": "Business Intelligence"
   },
+  "matillion": {
+    "name": "Matillion",
+    "category": "ETL"
+  },
   "metabase": {
     "name": "Metabase",
     "category": "Business Intelligence"
@@ -122,6 +126,10 @@
   "mysql": {
     "name": "MySQL",
     "category": "Database"
+  },
+  "netsuite": {
+    "name": "NetSuite",
+    "category": "CRM"
   },
   "omni": {
     "name": "Omni",
