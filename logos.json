@@ -147,6 +147,10 @@
     "name": "PagerDuty",
     "category": "Communication"
   },
+  "polytomic": {
+    "name": "Polytomic",
+    "category": "ETL"
+  },
   "postgres": {
     "name": "PostgresSQL",
     "category": "Database"
