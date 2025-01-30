@@ -127,13 +127,13 @@
     "name": "Omni",
     "category": "Business Intelligence"
   },
-  "oracle": {
-    "name": "Oracle",
-    "category": "Database"
-  },
   "openmetadata": {
     "name": "OpenMetadata",
     "category": "Data Catalog"
+  },
+  "oracle": {
+    "name": "Oracle",
+    "category": "Database"
   },
   "pagerduty": {
     "name": "PagerDuty",
