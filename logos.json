@@ -127,6 +127,10 @@
     "name": "Omni",
     "category": "Business Intelligence"
   },
+  "openmetadata": {
+    "name": "OpenMetadata",
+    "category": "Data Catalog"
+  },
   "pagerduty": {
     "name": "PagerDuty",
     "category": "Communication"
