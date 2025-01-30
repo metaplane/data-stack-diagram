@@ -27,6 +27,10 @@
     "name": "Databricks",
     "category": "Database"
   },
+  "duckdb": {
+    "name": "duckdb",
+    "category": "Database"
+  },
   "dbt": {
     "name": "dbt",
     "category": "Transform"
