@@ -103,6 +103,10 @@
     "name": "Looker",
     "category": "Business Intelligence"
   },
+  "matillion": {
+    "name": "Matillion",
+    "category": "ETL"
+  },
   "metabase": {
     "name": "Metabase",
     "category": "Business Intelligence"
@@ -127,9 +131,21 @@
     "name": "MySQL",
     "category": "Database"
   },
+  "netsuite": {
+    "name": "NetSuite",
+    "category": "CRM"
+  },
   "omni": {
     "name": "Omni",
     "category": "Business Intelligence"
+  },
+  "openmetadata": {
+    "name": "OpenMetadata",
+    "category": "Data Catalog"
+  },
+  "oracle": {
+    "name": "Oracle",
+    "category": "Database"
   },
   "pagerduty": {
     "name": "PagerDuty",
@@ -150,6 +166,10 @@
   "redshift": {
     "name": "Redshift",
     "category": "Database"
+  },
+  "salesforce": {
+    "name": "Salesforce",
+    "category": "CRM"
   },
   "segment": {
     "name": "Segment",
