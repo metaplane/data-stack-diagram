@@ -28,7 +28,7 @@
     "category": "Database"
   },
   "duckdb": {
-    "name": "duckdb",
+    "name": "DuckDB",
     "category": "Database"
   },
   "dbt": {
