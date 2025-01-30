@@ -59,6 +59,10 @@
     "name": "Erathos",
     "category": "ETL"
   },
+  "estuary": {
+    "name": "Estuary",
+    "category": "ETL"
+  },
   "fivetran": {
     "name": "Fivetran",
     "category": "ETL"
