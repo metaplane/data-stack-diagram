@@ -7,6 +7,22 @@
     "name": "Airflow",
     "category": "ETL"
   },
+  "aws_api_gateway": {
+    "name": "AWS Api Gateway",
+    "category": "API"
+  },
+  "aws_ec2": {
+    "name": "AWS EC2",
+    "category": "Cloud Computing"
+  },
+  "aws_glue": {
+    "name": "AWS Glue",
+    "category": "ETL"
+  },
+  "aws_s3": {
+    "name": "AWS S3",
+    "category": "Data Lake"
+  },
   "bigquery": {
     "name": "BigQuery",
     "category": "Database"
