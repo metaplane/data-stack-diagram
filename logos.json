@@ -31,6 +31,10 @@
     "name": "dbt",
     "category": "Transform"
   },
+  "dinmo": {
+    "name": "DinMo",
+    "category": "Reverse ETL"
+  },
   "fivetran": {
     "name": "Fivetran",
     "category": "ETL"
