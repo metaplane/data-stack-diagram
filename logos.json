@@ -127,6 +127,10 @@
     "name": "Omni",
     "category": "Business Intelligence"
   },
+  "oracle": {
+    "name": "Oracle",
+    "category": "Database"
+  },
   "pagerduty": {
     "name": "PagerDuty",
     "category": "Communication"
@@ -142,6 +146,10 @@
   "redshift": {
     "name": "Redshift",
     "category": "Database"
+  },
+  "salesforce": {
+    "name": "Salesforce",
+    "category": "CRM"
   },
   "segment": {
     "name": "Segment",
