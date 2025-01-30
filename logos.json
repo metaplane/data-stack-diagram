@@ -7,6 +7,22 @@
     "name": "Airflow",
     "category": "ETL"
   },
+  "aws_api_gateway": {
+    "name": "AWS Api Gateway",
+    "category": "API"
+  },
+  "aws_ec2": {
+    "name": "AWS EC2",
+    "category": "Cloud Computing"
+  },
+  "aws_glue": {
+    "name": "AWS Glue",
+    "category": "ETL"
+  },
+  "aws_s3": {
+    "name": "AWS S3",
+    "category": "Data Lake"
+  },
   "bigquery": {
     "name": "BigQuery",
     "category": "Database"
@@ -34,6 +50,10 @@
   "dinmo": {
     "name": "DinMo",
     "category": "Reverse ETL"
+  },
+  "duckdb": {
+    "name": "DuckDB",
+    "category": "Database"
   },
   "fivetran": {
     "name": "Fivetran",
@@ -99,6 +119,10 @@
     "name": "MySQL",
     "category": "Database"
   },
+  "omni": {
+    "name": "Omni",
+    "category": "Business Intelligence"
+  },
   "pagerduty": {
     "name": "PagerDuty",
     "category": "Communication"
@@ -134,6 +158,10 @@
   "sqlserver": {
     "name": "Microsoft SQL Server",
     "category": "Database"
+  },
+  "streamkap": {
+    "name": "Streamkap",
+    "category": "ETL"
   },
   "tableau": {
     "name": "Tableau",
