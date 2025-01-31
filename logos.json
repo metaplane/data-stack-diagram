@@ -59,6 +59,10 @@
     "name": "Erathos",
     "category": "ETL"
   },
+  "firebird": {
+    "name": "Firebird",
+    "category": "Database"
+  },
   "fivetran": {
     "name": "Fivetran",
     "category": "ETL"
@@ -146,6 +150,10 @@
   "pagerduty": {
     "name": "PagerDuty",
     "category": "Communication"
+  },
+  "pentaho": {
+    "name": "Pentaho",
+    "category": "ETL"
   },
   "polytomic": {
     "name": "Polytomic",
