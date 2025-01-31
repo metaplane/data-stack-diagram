@@ -119,6 +119,10 @@
     "name": "Mode",
     "category": "Business Intelligence"
   },
+  "mongodb": {
+    "name": "MongoDb",
+    "category": "Database"
+  },
   "msexcel": {
     "name": "Microsoft Excel",
     "category": "Source System"
