@@ -155,6 +155,10 @@
     "name": "Pentaho",
     "category": "ETL"
   },
+  "polytomic": {
+    "name": "Polytomic",
+    "category": "ETL"
+  },
   "postgres": {
     "name": "PostgresSQL",
     "category": "Database"
