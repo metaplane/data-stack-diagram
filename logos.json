@@ -1,4 +1,8 @@
 {
+  "ai_platform_notebooks": {
+    "name": "AI Platform Notebooks",
+    "category": "Business Intelligence"
+  },
   "airbyte": {
     "name": "Airbyte",
     "category": "ETL"
@@ -27,6 +31,14 @@
     "name": "BigQuery",
     "category": "Database"
   },
+  "bigquery_data_transfer_service": {
+    "name": "BigQuery Data Transfer Service",
+    "category": "Reverse ETL"
+  },
+  "bigtable": {
+    "name": "Bigtable",
+    "category": "Database"
+  },
   "census": {
     "name": "Census",
     "category": "Reverse ETL"
@@ -35,9 +47,41 @@
     "name": "ClickHouse",
     "category": "Database"
   },
+  "cloud_composer": {
+    "name": "Cloud Composer",
+    "category": "ETL"
+  },
+  "cloud_spanner": {
+    "name": "Cloud Spanner",
+    "category": "Database"
+  },
+  "cloud_sql": {
+    "name": "Cloud SQL",
+    "category": "Database"
+  },
+  "cloud_storage": {
+    "name": "Cloud Storage",
+    "category": "Data Lake"
+  },
   "coalesce": {
     "name": "Coalesce",
     "category": "Transform"
+  },
+  "data_fusion": {
+    "name": "Data Fusion",
+    "category": "ETL"
+  },
+  "dataflow": {
+    "name": "Dataflow",
+    "category": "ETL"
+  },
+  "dataproc": {
+    "name": "Dataproc",
+    "category": "ETL"
+  },
+  "datastore": {
+    "name": "Datastore",
+    "category": "Database"
   },
   "databricks": {
     "name": "Databricks",
@@ -61,6 +105,10 @@
   },
   "firebird": {
     "name": "Firebird",
+    "category": "Database"
+  },
+  "firestore": {
+    "name": "Firestore",
     "category": "Database"
   },
   "fivetran": {
@@ -171,6 +219,10 @@
     "name": "Power BI",
     "category": "Business Intelligence"
   },
+  "pub_sub": {
+    "name": "Pub/Sub",
+    "category": "ETL"
+  },
   "redshift": {
     "name": "Redshift",
     "category": "Database"
@@ -199,6 +251,10 @@
     "name": "Microsoft SQL Server",
     "category": "Database"
   },
+  "storage_transfer_service": {
+    "name": "Storage Transfer Service",
+    "category": "ETL"
+  },
   "streamkap": {
     "name": "Streamkap",
     "category": "ETL"
@@ -210,5 +266,13 @@
   "timeplus": {
     "name": "Timeplus",
     "category": "Database"
+  },
+  "transfer_appliance": {
+    "name": "Transfer Appliance",
+    "category": "ETL"
+  },
+  "vertex_ai": {
+    "name": "Vertex AI",
+    "category": "Business Intelligence"
   }
 }
