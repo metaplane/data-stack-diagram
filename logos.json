@@ -27,6 +27,82 @@
     "name": "AWS S3",
     "category": "Data Lake"
   },
+  "azure_cdn_profiles": {
+    "name": "Azure CDN Profiles",
+    "category": "Cloud Computing"
+  },
+  "azure_cosmos_db": {
+    "name": "Azure Cosmos DB",
+    "category": "Database"
+  },
+  "azure_data_lake_storage_gen1": {
+    "name": "Azure Data Lake Storage Gen1",
+    "category": "Data Lake"
+  },
+  "azure_data_shares": {
+    "name": "Azure Data Shares",
+    "category": "Data Lake"
+  },
+  "azure_database_mysql_server": {
+    "name": "Azure Database for MySQL",
+    "category": "Database"
+  },
+  "azure_database_postgresql_server": {
+    "name": "Azure Database for PostgreSQL",
+    "category": "Database"
+  },
+  "azure_function_apps": {
+    "name": "Azure Function Apps",
+    "category": "ETL"
+  },
+  "azure_kubernetes_services": {
+    "name": "Azure Kubernetes Service",
+    "category": "Cloud Computing"
+  },
+  "azure_load_balancer_hub": {
+    "name": "Azure Load Balancer",
+    "category": "Cloud Computing"
+  },
+  "azure_purview_accounts": {
+    "name": "Azure Purview",
+    "category": "Data Catalog"
+  },
+  "azure_sql": {
+    "name": "Azure SQL",
+    "category": "Database"
+  },
+  "azure_sql_database": {
+    "name": "Azure SQL Database",
+    "category": "Database"
+  },
+  "azure_sql_elastic_pools": {
+    "name": "Azure SQL Elastic Pools",
+    "category": "Database"
+  },
+  "azure_sql_managed_instance": {
+    "name": "Azure SQL Managed Instance",
+    "category": "Database"
+  },
+  "azure_sql_server": {
+    "name": "Azure SQL Server",
+    "category": "Database"
+  },
+  "azure_storage_functions": {
+    "name": "Azure Storage Functions",
+    "category": "ETL"
+  },
+  "azure_stream_analytics_jobs": {
+    "name": "Azure Stream Analytics",
+    "category": "ETL"
+  },
+  "azure_synapse_analytics": {
+    "name": "Azure Synapse Analytics",
+    "category": "Database"
+  },
+  "azure_virtual_machine": {
+    "name": "Azure Virtual Machine",
+    "category": "Cloud Computing"
+  },
   "bigquery": {
     "name": "BigQuery",
     "category": "Database"
@@ -67,6 +143,10 @@
     "name": "Coalesce",
     "category": "Transform"
   },
+  "databricks": {
+    "name": "Databricks",
+    "category": "Database"
+  },
   "data_fusion": {
     "name": "Data Fusion",
     "category": "ETL"
@@ -81,10 +161,6 @@
   },
   "datastore": {
     "name": "Datastore",
-    "category": "Database"
-  },
-  "databricks": {
-    "name": "Databricks",
     "category": "Database"
   },
   "dbt": {
