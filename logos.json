@@ -210,5 +210,9 @@
   "timeplus": {
     "name": "Timeplus",
     "category": "Database"
+  },
+   "trackingplan": {
+    "name": "Trackingplan",
+    "category": "Data Observability"
   }
 }
