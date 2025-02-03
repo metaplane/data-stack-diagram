@@ -11,6 +11,14 @@
     "name": "Airflow",
     "category": "ETL"
   },
+  "autonomous_database": {
+    "name": "Autonomous Database",
+    "category": "Database"
+  },
+  "autonomous_database_warehouse": {
+    "name": "Autonomous Database Warehouse",
+    "category": "Database"
+  },
   "aws_api_gateway": {
     "name": "AWS Api Gateway",
     "category": "API"
@@ -131,10 +139,6 @@
     "name": "ClickHouse",
     "category": "Database"
   },
-  "coalesce": {
-    "name": "Coalesce",
-    "category": "Transform"
-  },
   "cloud_composer": {
     "name": "Cloud Composer",
     "category": "ETL"
@@ -150,6 +154,10 @@
   "cloud_storage": {
     "name": "Cloud Storage",
     "category": "Data Lake"
+  },
+  "coalesce": {
+    "name": "Coalesce",
+    "category": "Transform"
   },
   "data_fusion": {
     "name": "Data Fusion",
@@ -306,6 +314,46 @@
   "oracle": {
     "name": "Oracle",
     "category": "Database"
+  },
+  "oracle_analytics_cloud": {
+    "name": "Oracle Analytics Cloud",
+    "category": "Business Intelligence"
+  },
+  "oracle_api_gateway": {
+    "name": "Oracle API Gateway",
+    "category": "API"
+  },
+  "oracle_api_service": {
+    "name": "Oracle API Service",
+    "category": "API"
+  },
+  "oracle_big_data": {
+    "name": "Oracle Big Data",
+    "category": "ETL"
+  },
+  "oracle_block_storage": {
+    "name": "Oracle Block Storage",
+    "category": "Data Lake"
+  },
+  "oracle_exadata_cloud_at_customer": {
+    "name": "Oracle Exadata Cloud at Customer",
+    "category": "Cloud Computing"
+  },
+  "oracle_functions": {
+    "name": "Oracle Functions",
+    "category": "ETL"
+  },
+  "oracle_migrate_autonomous_database": {
+    "name": "Oracle Migrate Autonomous Database",
+    "category": "ETL"
+  },
+  "oracle_mysql_database_system": {
+    "name": "Oracle MySQL Database System",
+    "category": "Database"
+  },
+  "oracle_object_storage": {
+    "name": "Oracle Object Storage",
+    "category": "Data Lake"
   },
   "pagerduty": {
     "name": "PagerDuty",
