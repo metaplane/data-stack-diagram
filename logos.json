@@ -103,6 +103,10 @@
     "name": "Azure Virtual Machine",
     "category": "Cloud Computing"
   },
+  "beam": {
+    "name": "Beam",
+    "category": "ETL"
+  },
   "bigquery": {
     "name": "BigQuery",
     "category": "Database"
@@ -115,6 +119,10 @@
     "name": "Bigtable",
     "category": "Database"
   },
+  "cassandra": {
+    "name": "Cassandra",
+    "category": "Database"
+  },
   "census": {
     "name": "Census",
     "category": "Reverse ETL"
@@ -122,6 +130,10 @@
   "clickhouse": {
     "name": "ClickHouse",
     "category": "Database"
+  },
+  "coalesce": {
+    "name": "Coalesce",
+    "category": "Transform"
   },
   "cloud_composer": {
     "name": "Cloud Composer",
@@ -139,17 +151,13 @@
     "name": "Cloud Storage",
     "category": "Data Lake"
   },
-  "coalesce": {
-    "name": "Coalesce",
-    "category": "Transform"
+  "data_fusion": {
+    "name": "Data Fusion",
+    "category": "ETL"
   },
   "databricks": {
     "name": "Databricks",
     "category": "Database"
-  },
-  "data_fusion": {
-    "name": "Data Fusion",
-    "category": "ETL"
   },
   "dataflow": {
     "name": "Dataflow",
@@ -211,6 +219,14 @@
     "name": "Google Sheets",
     "category": "Source System"
   },
+  "hadoop": {
+    "name": "Hadoop",
+    "category": "ETL"
+  },
+  "hbase": {
+    "name": "HBase",
+    "category": "Database"
+  },
   "hex": {
     "name": "Hex",
     "category": "Business Intelligence"
@@ -218,6 +234,22 @@
   "hightouch": {
     "name": "Hightouch",
     "category": "Reverse ETL"
+  },
+  "hive": {
+    "name": "Hive",
+    "category": "ETL"
+  },
+  "hop": {
+    "name": "Hop",
+    "category": "ETL"
+  },
+  "iceberg": {
+    "name": "Iceberg",
+    "category": "Data Lake"
+  },
+  "impala": {
+    "name": "Impala",
+    "category": "ETL"
   },
   "kafka": {
     "name": "Kafka",
@@ -323,6 +355,10 @@
     "name": "Snowflake",
     "category": "Database"
   },
+  "spark": {
+    "name": "Spark",
+    "category": "ETL"
+  },
   "sqlserver": {
     "name": "Microsoft SQL Server",
     "category": "Database"
@@ -349,6 +385,10 @@
   },
   "vertex_ai": {
     "name": "Vertex AI",
+    "category": "Business Intelligence"
+  },
+  "zeppelin": {
+    "name": "Zeppelin",
     "category": "Business Intelligence"
   }
 }
