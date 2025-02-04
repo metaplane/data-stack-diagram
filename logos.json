@@ -260,7 +260,7 @@
     "category": "ETL"
   },
   "superset": {
-    "name": "Apache Superset",
+    "name": "Superset",
     "category": "Business Intelligence"
   },
   "tableau": {
