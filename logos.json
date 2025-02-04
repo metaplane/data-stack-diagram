@@ -51,9 +51,17 @@
     "name": "Cube",
     "category": "Business Intelligence"
   },
+  "dagster": {
+    "name": "Dagster",
+    "category": "ETL"
+  },
   "databricks": {
     "name": "Databricks",
     "category": "Database"
+  },
+  "datafold": {
+    "name": "Datafold",
+    "category": "Data Observability"
   },
   "dbt": {
     "name": "dbt",
