@@ -7,6 +7,14 @@
     "name": "Airflow",
     "category": "ETL"
   },
+  "ascend": {
+    "name": "Ascend",
+    "category": "ETL"
+  },
+  "astronomer": {
+    "name": "Astronomer",
+    "category": "ETL"
+  },
   "aws_api_gateway": {
     "name": "AWS Api Gateway",
     "category": "API"
@@ -39,6 +47,10 @@
     "name": "Coalesce",
     "category": "Transform"
   },
+  "cube": {
+    "name": "Cube",
+    "category": "Business Intelligence"
+  },
   "databricks": {
     "name": "Databricks",
     "category": "Database"
@@ -51,12 +63,20 @@
     "name": "DinMo",
     "category": "Reverse ETL"
   },
+  "dlt": {
+    "name": "dlt",
+    "category": "ETL"
+  },
   "duckdb": {
     "name": "DuckDB",
     "category": "Database"
   },
   "erathos": {
     "name": "Erathos",
+    "category": "ETL"
+  },
+  "estuary": {
+    "name": "Estuary",
     "category": "ETL"
   },
   "firebird": {
@@ -87,6 +107,10 @@
     "name": "Google Sheets",
     "category": "Source System"
   },
+  "hashboard": {
+    "name": "Hashboard",
+    "category": "Business Intelligence"
+  },
   "hex": {
     "name": "Hex",
     "category": "Business Intelligence"
@@ -94,6 +118,10 @@
   "hightouch": {
     "name": "Hightouch",
     "category": "Reverse ETL"
+  },
+  "hubspot": {
+    "name": "Hubspot",
+    "category": "CRM"
   },
   "kafka": {
     "name": "Kafka",
@@ -103,8 +131,16 @@
     "name": "Looker",
     "category": "Business Intelligence"
   },
+  "mage": {
+    "name": "Mage",
+    "category": "ETL"
+  },
   "matillion": {
     "name": "Matillion",
+    "category": "ETL"
+  },
+  "meltano": {
+    "name": "Meltano",
     "category": "ETL"
   },
   "metabase": {
@@ -171,9 +207,17 @@
     "name": "Power BI",
     "category": "Business Intelligence"
   },
+  "preset": {
+    "name": "Preset",
+    "category": "Business Intelligence"
+  },
   "redshift": {
     "name": "Redshift",
     "category": "Database"
+  },
+  "rill": {
+    "name": "Rill",
+    "category": "Business Intelligence"
   },
   "salesforce": {
     "name": "Salesforce",
@@ -191,6 +235,10 @@
     "name": "Slack",
     "category": "Communication"
   },
+  "sling": {
+    "name": "Sling",
+    "category": "ETL"
+  },
   "snowflake": {
     "name": "Snowflake",
     "category": "Database"
@@ -203,6 +251,10 @@
     "name": "Streamkap",
     "category": "ETL"
   },
+  "superset": {
+    "name": "Apache Superset",
+    "category": "Business Intelligence"
+  },
   "tableau": {
     "name": "Tableau",
     "category": "Business Intelligence"
@@ -211,7 +263,7 @@
     "name": "Timeplus",
     "category": "Database"
   },
-   "trackingplan": {
+  "trackingplan": {
     "name": "Trackingplan",
     "category": "Data Observability"
   }
