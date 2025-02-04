@@ -214,9 +214,9 @@
    "trackingplan": {
     "name": "Trackingplan",
     "category": "Data Observability"
-  }
+  },
     "zingg": {
     "name": "Zingg",
     "category": "Entity Resolution"
-  },
+  }
 }
