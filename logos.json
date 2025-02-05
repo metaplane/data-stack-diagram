@@ -35,6 +35,10 @@
     "name": "BigQuery",
     "category": "Database"
   },
+  "bruin": {
+    "name": "Bruin",
+    "category": "ETL"
+  },
   "census": {
     "name": "Census",
     "category": "Reverse ETL"
