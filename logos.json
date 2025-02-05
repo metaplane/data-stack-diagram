@@ -135,6 +135,10 @@
     "name": "Bigtable",
     "category": "Database"
   },
+  "bruin": {
+    "name": "Bruin",
+    "category": "ETL"
+  },
   "cassandra": {
     "name": "Cassandra",
     "category": "Database"
