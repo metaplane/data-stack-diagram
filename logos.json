@@ -235,6 +235,10 @@
     "name": "Segment",
     "category": "ETL"
   },
+  "selectstar": {
+    "name": "Select Star",
+    "category": "Data Catalog"
+  },
   "sigma": {
     "name": "Sigma",
     "category": "Business Intelligence"
