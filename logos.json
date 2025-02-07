@@ -11,6 +11,14 @@
     "name": "Airflow",
     "category": "ETL"
   },
+  "ascend": {
+    "name": "Ascend",
+    "category": "ETL"
+  },
+  "astronomer": {
+    "name": "Astronomer",
+    "category": "ETL"
+  },
   "autonomous_database": {
     "name": "Autonomous Database",
     "category": "Database"
@@ -123,6 +131,10 @@
     "name": "Bigtable",
     "category": "Database"
   },
+  "bruin": {
+    "name": "Bruin",
+    "category": "ETL"
+  },
   "cassandra": {
     "name": "Cassandra",
     "category": "Database"
@@ -159,6 +171,14 @@
     "name": "Coalesce",
     "category": "Transform"
   },
+  "cube": {
+    "name": "Cube",
+    "category": "Business Intelligence"
+  },
+  "dagster": {
+    "name": "Dagster",
+    "category": "ETL"
+  },
   "data_fusion": {
     "name": "Data Fusion",
     "category": "ETL"
@@ -174,6 +194,10 @@
   "dataflow": {
     "name": "Dataflow",
     "category": "ETL"
+  },
+  "datafold": {
+    "name": "Datafold",
+    "category": "Data Observability"
   },
   "dataproc": {
     "name": "Dataproc",
@@ -195,12 +219,20 @@
     "name": "DinMo",
     "category": "Reverse ETL"
   },
+  "dlt": {
+    "name": "dlt",
+    "category": "ETL"
+  },
   "duckdb": {
     "name": "DuckDB",
     "category": "Database"
   },
   "erathos": {
     "name": "Erathos",
+    "category": "ETL"
+  },
+  "estuary": {
+    "name": "Estuary",
     "category": "ETL"
   },
   "firebird": {
@@ -239,6 +271,10 @@
     "name": "Hadoop",
     "category": "ETL"
   },
+  "hashboard": {
+    "name": "Hashboard",
+    "category": "Business Intelligence"
+  },
   "hbase": {
     "name": "HBase",
     "category": "Database"
@@ -254,6 +290,10 @@
   "hive": {
     "name": "Hive",
     "category": "ETL"
+  },
+  "hubspot": {
+    "name": "Hubspot",
+    "category": "CRM"
   },
   "hop": {
     "name": "Hop",
@@ -275,8 +315,16 @@
     "name": "Looker",
     "category": "Business Intelligence"
   },
+  "mage": {
+    "name": "Mage",
+    "category": "ETL"
+  },
   "matillion": {
     "name": "Matillion",
+    "category": "ETL"
+  },
+  "meltano": {
+    "name": "Meltano",
     "category": "ETL"
   },
   "metabase": {
@@ -383,6 +431,10 @@
     "name": "Power BI",
     "category": "Business Intelligence"
   },
+  "preset": {
+    "name": "Preset",
+    "category": "Business Intelligence"
+  },
   "pub_sub": {
     "name": "Pub/Sub",
     "category": "ETL"
@@ -390,6 +442,10 @@
   "redshift": {
     "name": "Redshift",
     "category": "Database"
+  },
+  "rill": {
+    "name": "Rill",
+    "category": "Business Intelligence"
   },
   "salesforce": {
     "name": "Salesforce",
@@ -399,6 +455,10 @@
     "name": "Segment",
     "category": "ETL"
   },
+  "selectstar": {
+    "name": "Select Star",
+    "category": "Data Catalog"
+  },
   "sigma": {
     "name": "Sigma",
     "category": "Business Intelligence"
@@ -406,6 +466,10 @@
   "slack": {
     "name": "Slack",
     "category": "Communication"
+  },
+  "sling": {
+    "name": "Sling",
+    "category": "ETL"
   },
   "snowflake": {
     "name": "Snowflake",
@@ -423,6 +487,10 @@
     "name": "Streamkap",
     "category": "ETL"
   },
+  "superset": {
+    "name": "Superset",
+    "category": "Business Intelligence"
+  },
   "tableau": {
     "name": "Tableau",
     "category": "Business Intelligence"
@@ -430,6 +498,10 @@
   "timeplus": {
     "name": "Timeplus",
     "category": "Database"
+  },
+  "trackingplan": {
+    "name": "Trackingplan",
+    "category": "Data Observability"
   },
   "transfer_appliance": {
     "name": "Transfer Appliance",
