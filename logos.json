@@ -119,10 +119,6 @@
     "name": "BigQuery",
     "category": "Database"
   },
-  "bigquery_data_transfer_service": {
-    "name": "BigQuery Data Transfer Service",
-    "category": "Reverse ETL"
-  },
   "bigtable": {
     "name": "Bigtable",
     "category": "Database"
@@ -141,6 +137,10 @@
   },
   "cloud_composer": {
     "name": "Cloud Composer",
+    "category": "ETL"
+  },
+  "cloud_data_fusion": {
+    "name": "Cloud Data Fusion",
     "category": "ETL"
   },
   "cloud_spanner": {
@@ -163,6 +163,10 @@
     "name": "Data Fusion",
     "category": "ETL"
   },
+  "data_transfer": {
+    "name": "Data Transfer",
+    "category": "Reverse ETL"
+  },  
   "databricks": {
     "name": "Databricks",
     "category": "Database"
@@ -175,6 +179,10 @@
     "name": "Dataproc",
     "category": "ETL"
   },
+  "dataproc_metastore": {
+    "name": "Dataproc Metastore",
+    "category": "ETL"
+  },  
   "datastore": {
     "name": "Datastore",
     "category": "Database"
@@ -410,10 +418,6 @@
   "sqlserver": {
     "name": "Microsoft SQL Server",
     "category": "Database"
-  },
-  "storage_transfer_service": {
-    "name": "Storage Transfer Service",
-    "category": "ETL"
   },
   "streamkap": {
     "name": "Streamkap",
