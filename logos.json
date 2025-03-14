@@ -282,5 +282,9 @@
   "trackingplan": {
     "name": "Trackingplan",
     "category": "Data Observability"
+  },
+  "sqlmesh": {
+    "name": "sqlmesh",
+    "category": "Transform"
   }
 }
