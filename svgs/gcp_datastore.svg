@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Path" fill="#aecbfa" stroke="none" d="M 99.999992 80 L 119.999992 60 L -1.1e-05 60 L 19.99999 80 L 99.999992 80 Z"/>
+        <path id="path1" fill="#669df6" stroke="none" d="M 99.999992 80 L 99.999992 160 L 119.999992 179.999985 L 119.999992 60 L 99.999992 80 Z"/>
+        <path id="path2" fill="#aecbfa" stroke="none" d="M 19.99999 80 L -1.1e-05 60 L -1.1e-05 179.999985 L 19.99999 160 L 19.99999 80 Z"/>
+        <path id="path3" fill="#4285f4" stroke="none" d="M 19.99999 160 L -1.1e-05 179.999985 L 119.999992 179.999985 L 99.999992 160 L 19.99999 160 Z"/>
+        <path id="path4" fill="#aecbfa" stroke="none" d="M 19.99999 80 L 99.999992 80 L 99.999992 160 L 19.99999 160 Z"/>
+        <path id="path5" fill="#4285f4" stroke="none" d="M 240 80 L 260 60 L 140 60 L 160 80 L 240 80 Z"/>
+        <path id="path6" fill="#aecbfa" stroke="none" d="M 240 80 L 240 160 L 260 179.999985 L 260 60 L 240 80 Z"/>
+        <path id="path7" fill="#4285f4" stroke="none" d="M 160 80 L 140 60 L 140 179.999985 L 160 160 L 160 80 Z"/>
+        <path id="path8" fill="#aecbfa" stroke="none" d="M 160 160 L 140 179.999985 L 260 179.999985 L 240 160 L 160 160 Z"/>
+        <path id="path9" fill="#ffffff" stroke="none" d="M 160 80 L 240 80 L 240 160 L 160 160 Z"/>
+        <path id="path10" fill="#4285f4" stroke="none" d="M 380 80 L 400 60 L 280 60 L 300.000031 80 L 380 80 Z"/>
+        <path id="path11" fill="#aecbfa" stroke="none" d="M 380 80 L 380 160 L 400 179.999985 L 400 60 L 380 80 Z"/>
+        <path id="path12" fill="#4285f4" stroke="none" d="M 300.000031 80 L 280 60 L 280 179.999985 L 300.000031 160 L 300.000031 80 Z"/>
+        <path id="path13" fill="#aecbfa" stroke="none" d="M 300.000031 160 L 280 179.999985 L 400 179.999985 L 380 160 L 300.000031 160 Z"/>
+        <path id="path14" fill="#ffffff" stroke="none" d="M 300.000031 80 L 380 80 L 380 160 L 300.000031 160 Z"/>
+        <path id="path15" fill="#4285f4" stroke="none" d="M 99.999992 240 L 119.999992 220 L -1.1e-05 220 L 19.99999 240 L 99.999992 240 Z"/>
+        <path id="path16" fill="#aecbfa" stroke="none" d="M 99.999992 240 L 99.999992 320 L 119.999992 340 L 119.999992 220 L 99.999992 240 Z"/>
+        <path id="path17" fill="#4285f4" stroke="none" d="M 19.99999 240 L -1.1e-05 220 L -1.1e-05 340 L 19.99999 320 L 19.99999 240 Z"/>
+        <path id="path18" fill="#aecbfa" stroke="none" d="M 19.99999 320 L -1.1e-05 340 L 119.999992 340 L 99.999992 320 L 19.99999 320 Z"/>
+        <path id="path19" fill="#ffffff" stroke="none" d="M 19.99999 240 L 99.999992 240 L 99.999992 320 L 19.99999 320 Z"/>
+        <path id="path20" fill="#aecbfa" stroke="none" d="M 240 240 L 260 220 L 140 220 L 160 240 L 240 240 Z"/>
+        <path id="path21" fill="#669df6" stroke="none" d="M 240 240 L 240 320 L 260 340 L 260 220 L 240 240 Z"/>
+        <path id="path22" fill="#aecbfa" stroke="none" d="M 160 240 L 140 220 L 140 340 L 160 320 L 160 240 Z"/>
+        <path id="path23" fill="#4285f4" stroke="none" d="M 160 320 L 140 340 L 260 340 L 240 320 L 160 320 Z"/>
+        <path id="path24" fill="#aecbfa" stroke="none" d="M 160 240 L 240 240 L 240 320 L 160 320 Z"/>
+        <path id="path25" fill="#aecbfa" stroke="none" d="M 380 240 L 400 220 L 280 220 L 300.000031 240 L 380 240 Z"/>
+        <path id="path26" fill="#669df6" stroke="none" d="M 380 240 L 380 320 L 400 340 L 400 220 L 380 240 Z"/>
+        <path id="path27" fill="#aecbfa" stroke="none" d="M 300.000031 240 L 280 220 L 280 340 L 300.000031 320 L 300.000031 240 Z"/>
+        <path id="path28" fill="#4285f4" stroke="none" d="M 300.000031 320 L 280 340 L 400 340 L 380 320 L 300.000031 320 Z"/>
+        <path id="path29" fill="#aecbfa" stroke="none" d="M 300.000031 240 L 380 240 L 380 320 L 300.000031 320 Z"/>
+    </g>
+</svg>

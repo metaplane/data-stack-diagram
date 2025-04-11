@@ -1,8 +1,4 @@
 {
-  "ai_platform_notebooks": {
-    "name": "AI Platform Notebooks",
-    "category": "Business Intelligence"
-  },
   "airbyte": {
     "name": "Airbyte",
     "category": "ETL"
@@ -123,14 +119,6 @@
     "name": "Beam",
     "category": "ETL"
   },
-  "bigquery": {
-    "name": "BigQuery",
-    "category": "Database"
-  },
-  "bigtable": {
-    "name": "Bigtable",
-    "category": "Database"
-  },
   "bruin": {
     "name": "Bruin",
     "category": "ETL"
@@ -146,26 +134,6 @@
   "clickhouse": {
     "name": "ClickHouse",
     "category": "Database"
-  },
-  "cloud_composer": {
-    "name": "Cloud Composer",
-    "category": "ETL"
-  },
-  "cloud_data_fusion": {
-    "name": "Cloud Data Fusion",
-    "category": "ETL"
-  },
-  "cloud_spanner": {
-    "name": "Cloud Spanner",
-    "category": "Database"
-  },
-  "cloud_sql": {
-    "name": "Cloud SQL",
-    "category": "Database"
-  },
-  "cloud_storage": {
-    "name": "Cloud Storage",
-    "category": "Data Lake"
   },
   "coalesce": {
     "name": "Coalesce",
@@ -183,33 +151,13 @@
     "name": "Data Fusion",
     "category": "ETL"
   },
-  "data_transfer": {
-    "name": "Data Transfer",
-    "category": "Reverse ETL"
-  },  
   "databricks": {
     "name": "Databricks",
     "category": "Database"
   },
-  "dataflow": {
-    "name": "Dataflow",
-    "category": "ETL"
-  },
   "datafold": {
     "name": "Datafold",
     "category": "Data Observability"
-  },
-  "dataproc": {
-    "name": "Dataproc",
-    "category": "ETL"
-  },
-  "dataproc_metastore": {
-    "name": "Dataproc Metastore",
-    "category": "ETL"
-  },  
-  "datastore": {
-    "name": "Datastore",
-    "category": "Database"
   },
   "dbt": {
     "name": "dbt",
@@ -239,10 +187,6 @@
     "name": "Firebird",
     "category": "Database"
   },
-  "firestore": {
-    "name": "Firestore",
-    "category": "Database"
-  },
   "fivetran": {
     "name": "Fivetran",
     "category": "ETL"
@@ -250,6 +194,78 @@
   "flink": {
     "name": "Flink",
     "category": "ETL"
+  },
+  "gcp_ai_platform_notebooks": {
+    "name": "AI Platform Notebooks",
+    "category": "Business Intelligence"
+  },
+  "gcp_bigquery": {
+    "name": "BigQuery",
+    "category": "Database"
+  },
+  "gcp_bigtable": {
+    "name": "Bigtable",
+    "category": "Database"
+  },
+  "gcp_cloud_composer": {
+    "name": "Cloud Composer",
+    "category": "ETL"
+  },
+  "gcp_cloud_data_fusion": {
+    "name": "Cloud Data Fusion",
+    "category": "ETL"
+  },
+  "gcp_cloud_spanner": {
+    "name": "Cloud Spanner",
+    "category": "Database"
+  },
+  "gcp_cloud_sql": {
+    "name": "Cloud SQL",
+    "category": "Database"
+  },
+  "gcp_cloud_storage": {
+    "name": "Cloud Storage",
+    "category": "Data Lake"
+  },
+  "gcp_data_transfer": {
+    "name": "Data Transfer",
+    "category": "Reverse ETL"
+  },
+  "gcp_dataflow": {
+    "name": "Dataflow",
+    "category": "ETL"
+  },
+  "gcp_dataproc": {
+    "name": "Dataproc",
+    "category": "ETL"
+  },
+  "gcp_dataproc_metastore": {
+    "name": "Dataproc Metastore",
+    "category": "ETL"
+  },
+  "gcp_datastore": {
+    "name": "Datastore",
+    "category": "Database"
+  },
+  "gcp_firestore": {
+    "name": "Firestore",
+    "category": "Database"
+  },
+  "gcp_looker": {
+    "name": "Looker",
+    "category": "Business Intelligence"
+  },
+  "gcp_pub_sub": {
+    "name": "Pub/Sub",
+    "category": "ETL"
+  },
+  "gcp_transfer_appliance": {
+    "name": "Transfer Appliance",
+    "category": "ETL"
+  },
+  "gcp_vertex_ai": {
+    "name": "Vertex AI",
+    "category": "Business Intelligence"
   },
   "git": {
     "name": "Git",
@@ -310,10 +326,6 @@
   "kafka": {
     "name": "Kafka",
     "category": "ETL"
-  },
-  "looker": {
-    "name": "Looker",
-    "category": "Business Intelligence"
   },
   "mage": {
     "name": "Mage",
@@ -435,10 +447,6 @@
     "name": "Preset",
     "category": "Business Intelligence"
   },
-  "pub_sub": {
-    "name": "Pub/Sub",
-    "category": "ETL"
-  },
   "redshift": {
     "name": "Redshift",
     "category": "Database"
@@ -507,17 +515,9 @@
     "name": "Trackingplan",
     "category": "Data Observability"
   },
-  "transfer_appliance": {
-    "name": "Transfer Appliance",
-    "category": "ETL"
-  },
   "trino": {
     "name": "Trino",
     "category": "Database"
-  },
-  "vertex_ai": {
-    "name": "Vertex AI",
-    "category": "Business Intelligence"
   },
   "zeppelin": {
     "name": "Zeppelin",

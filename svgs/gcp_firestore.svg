@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <g id="g1">
+            <g id="g2">
+                <path id="Path" fill="#669df6" stroke="none" d="M 380 220 L 200 140 L 200 220 L 380 300 Z M 380 80 L 200 0 L 200 80 L 380 160 Z"/>
+                <path id="Rectangle-7" fill="#aecbfa" stroke="none" d="M 19.999998 80 L 200 0 L 200 80 L 19.999998 160 L 19.999998 80 Z"/>
+                <path id="Rectangle-7-2" fill="#aecbfa" stroke="none" d="M 19.999998 220 L 200 140 L 200 220 L 19.999998 300 L 19.999998 220 Z"/>
+                <path id="Rectangle-7-3" fill="#4285f4" stroke="none" d="M 200 320 L 267.399994 290 L 357.599976 330 L 200 400 L 200 320 Z"/>
+            </g>
+        </g>
+    </g>
+</svg>

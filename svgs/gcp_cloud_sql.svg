@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <g id="g1">
+            <path id="Path" fill="#aecbfa" fill-rule="evenodd" stroke="none" d="M 53.399994 168.800003 L 53.399994 228.999985 L 200 307 L 200 246.800003 L 53.399994 168.800003 Z"/>
+            <path id="path1" fill="#aecbfa" fill-rule="evenodd" stroke="none" d="M 53.399994 261.799988 L 53.399994 322 L 200 400 L 200 339.800018 L 53.399994 261.799988 Z"/>
+            <path id="path2" fill="#669df6" fill-rule="evenodd" stroke="none" d="M 200 307 L 346.600006 228.999985 L 346.600006 168.800003 L 200 246.800003 L 200 307 Z"/>
+            <path id="path3" fill="#669df6" fill-rule="evenodd" stroke="none" d="M 200 400 L 346.600006 322 L 346.600006 261.799988 L 200 339.800018 L 200 400 Z"/>
+            <path id="path4" fill="#4285f4" fill-rule="evenodd" stroke="none" d="M 346.600006 138.199982 L 346.600006 78 L 200 0 L 200 60.199982 L 346.600006 138.199982 Z"/>
+            <path id="path5" fill="#669df6" fill-rule="evenodd" stroke="none" d="M 200 0 L 53.399994 78 L 53.399994 138.199982 L 200 60.199982 L 200 0 Z"/>
+            <path id="path6" fill="#aecbfa" fill-rule="evenodd" stroke="none" d="M 53.399994 77.399994 L 53.399994 137.799988 L 200 215.800003 L 200 155.400009 L 53.399994 77.399994 Z"/>
+            <path id="path7" fill="#669df6" fill-rule="evenodd" stroke="none" d="M 200 215.800003 L 346.600006 137.799988 L 346.600006 77.399994 L 200 155.400009 L 200 215.800003 Z"/>
+        </g>
+    </g>
+</svg>

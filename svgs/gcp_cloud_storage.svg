@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Path" fill="#aecbfa" stroke="none" d="M -1.1e-05 39.999969 L 400 39.999969 L 400 180 L -1.1e-05 180 Z"/>
+        <path id="path1" fill="#669df6" stroke="none" d="M 360.000031 39.999969 L 400 39.999969 L 400 180 L 360.000031 180 Z"/>
+        <path id="path2" fill="#4285f4" stroke="none" d="M 400 39.999969 L 360.000031 39.999969 L 360.000031 180 L 400 39.999969 Z"/>
+        <path id="path3" fill="#669df6" stroke="none" d="M -1.1e-05 39.999969 L 39.999989 39.999969 L 39.999989 180 L -1.1e-05 180 Z"/>
+        <path id="path4" fill="#ffffff" stroke="none" d="M 79.999992 99.999969 L 200 99.999969 L 200 120 L 79.999992 120 Z"/>
+        <path id="path5" fill="#ffffff" stroke="none" d="M 290 80 L 290 80 C 306.568512 80 320 93.431427 320 110 L 320 110 C 320 126.568542 306.568512 140 290 140 L 290 140 C 273.431458 140 260 126.568542 260 110 L 260 110 C 260 93.431427 273.431458 80 290 80 Z"/>
+        <path id="path6" fill="#aecbfa" stroke="none" d="M -1.1e-05 220.000015 L 400 220.000015 L 400 360 L -1.1e-05 360 Z"/>
+        <path id="path7" fill="#669df6" stroke="none" d="M 360.000031 220.000015 L 400 220.000015 L 400 360 L 360.000031 360 Z"/>
+        <path id="path8" fill="#4285f4" stroke="none" d="M 400 220.000015 L 360.000031 220.000015 L 360.000031 360 L 400 220.000015 Z"/>
+        <path id="path9" fill="#669df6" stroke="none" d="M -1.1e-05 220.000015 L 39.999989 220.000015 L 39.999989 360 L -1.1e-05 360 Z"/>
+        <path id="path10" fill="#ffffff" stroke="none" d="M 79.999992 280 L 200 280 L 200 300 L 79.999992 300 Z"/>
+        <path id="path11" fill="#ffffff" stroke="none" d="M 290 260 L 290 260 C 306.568512 260 320 273.431458 320 290 L 320 290 C 320 306.568542 306.568512 320 290 320 L 290 320 C 273.431458 320 260 306.568542 260 290 L 260 290 C 260 273.431458 273.431458 260 290 260 Z"/>
+    </g>
+</svg>
