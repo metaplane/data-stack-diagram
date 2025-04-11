@@ -522,5 +522,9 @@
   "zeppelin": {
     "name": "Zeppelin",
     "category": "Business Intelligence"
+  },
+  "zingg": {
+    "name": "Zingg",
+    "category": "Entity Resolution"
   }
 }
