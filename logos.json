@@ -1,4 +1,8 @@
 {
+  "ai_platform_notebooks": {
+    "name": "AI Platform Notebooks",
+    "category": "Business Intelligence"
+  },
   "airbyte": {
     "name": "Airbyte",
     "category": "ETL"
@@ -6,6 +10,22 @@
   "airflow": {
     "name": "Airflow",
     "category": "ETL"
+  },
+  "ascend": {
+    "name": "Ascend",
+    "category": "ETL"
+  },
+  "astronomer": {
+    "name": "Astronomer",
+    "category": "ETL"
+  },
+  "autonomous_database": {
+    "name": "Autonomous Database",
+    "category": "Database"
+  },
+  "autonomous_database_warehouse": {
+    "name": "Autonomous Database Warehouse",
+    "category": "Database"
   },
   "aws_api_gateway": {
     "name": "AWS Api Gateway",
@@ -23,8 +43,100 @@
     "name": "AWS S3",
     "category": "Data Lake"
   },
+  "azure_cdn_profiles": {
+    "name": "Azure CDN Profiles",
+    "category": "Cloud Computing"
+  },
+  "azure_cosmos_db": {
+    "name": "Azure Cosmos DB",
+    "category": "Database"
+  },
+  "azure_data_lake_storage_gen1": {
+    "name": "Azure Data Lake Storage Gen1",
+    "category": "Data Lake"
+  },
+  "azure_data_shares": {
+    "name": "Azure Data Shares",
+    "category": "Data Lake"
+  },
+  "azure_database_mysql_server": {
+    "name": "Azure Database for MySQL",
+    "category": "Database"
+  },
+  "azure_database_postgresql_server": {
+    "name": "Azure Database for PostgreSQL",
+    "category": "Database"
+  },
+  "azure_function_apps": {
+    "name": "Azure Function Apps",
+    "category": "ETL"
+  },
+  "azure_kubernetes_services": {
+    "name": "Azure Kubernetes Service",
+    "category": "Cloud Computing"
+  },
+  "azure_load_balancer_hub": {
+    "name": "Azure Load Balancer",
+    "category": "Cloud Computing"
+  },
+  "azure_purview_accounts": {
+    "name": "Azure Purview",
+    "category": "Data Catalog"
+  },
+  "azure_sql": {
+    "name": "Azure SQL",
+    "category": "Database"
+  },
+  "azure_sql_database": {
+    "name": "Azure SQL Database",
+    "category": "Database"
+  },
+  "azure_sql_elastic_pools": {
+    "name": "Azure SQL Elastic Pools",
+    "category": "Database"
+  },
+  "azure_sql_managed_instance": {
+    "name": "Azure SQL Managed Instance",
+    "category": "Database"
+  },
+  "azure_sql_server": {
+    "name": "Azure SQL Server",
+    "category": "Database"
+  },
+  "azure_storage_functions": {
+    "name": "Azure Storage Functions",
+    "category": "ETL"
+  },
+  "azure_stream_analytics_jobs": {
+    "name": "Azure Stream Analytics",
+    "category": "ETL"
+  },
+  "azure_synapse_analytics": {
+    "name": "Azure Synapse Analytics",
+    "category": "Database"
+  },
+  "azure_virtual_machine": {
+    "name": "Azure Virtual Machine",
+    "category": "Cloud Computing"
+  },
+  "beam": {
+    "name": "Beam",
+    "category": "ETL"
+  },
   "bigquery": {
     "name": "BigQuery",
+    "category": "Database"
+  },
+  "bigtable": {
+    "name": "Bigtable",
+    "category": "Database"
+  },
+  "bruin": {
+    "name": "Bruin",
+    "category": "ETL"
+  },
+  "cassandra": {
+    "name": "Cassandra",
     "category": "Database"
   },
   "census": {
@@ -35,12 +147,68 @@
     "name": "ClickHouse",
     "category": "Database"
   },
+  "cloud_composer": {
+    "name": "Cloud Composer",
+    "category": "ETL"
+  },
+  "cloud_data_fusion": {
+    "name": "Cloud Data Fusion",
+    "category": "ETL"
+  },
+  "cloud_spanner": {
+    "name": "Cloud Spanner",
+    "category": "Database"
+  },
+  "cloud_sql": {
+    "name": "Cloud SQL",
+    "category": "Database"
+  },
+  "cloud_storage": {
+    "name": "Cloud Storage",
+    "category": "Data Lake"
+  },
   "coalesce": {
     "name": "Coalesce",
     "category": "Transform"
   },
+  "cube": {
+    "name": "Cube",
+    "category": "Business Intelligence"
+  },
+  "dagster": {
+    "name": "Dagster",
+    "category": "ETL"
+  },
+  "data_fusion": {
+    "name": "Data Fusion",
+    "category": "ETL"
+  },
+  "data_transfer": {
+    "name": "Data Transfer",
+    "category": "Reverse ETL"
+  },  
   "databricks": {
     "name": "Databricks",
+    "category": "Database"
+  },
+  "dataflow": {
+    "name": "Dataflow",
+    "category": "ETL"
+  },
+  "datafold": {
+    "name": "Datafold",
+    "category": "Data Observability"
+  },
+  "dataproc": {
+    "name": "Dataproc",
+    "category": "ETL"
+  },
+  "dataproc_metastore": {
+    "name": "Dataproc Metastore",
+    "category": "ETL"
+  },  
+  "datastore": {
+    "name": "Datastore",
     "category": "Database"
   },
   "dbt": {
@@ -51,6 +219,10 @@
     "name": "DinMo",
     "category": "Reverse ETL"
   },
+  "dlt": {
+    "name": "dlt",
+    "category": "ETL"
+  },
   "duckdb": {
     "name": "DuckDB",
     "category": "Database"
@@ -59,8 +231,16 @@
     "name": "Erathos",
     "category": "ETL"
   },
+  "estuary": {
+    "name": "Estuary",
+    "category": "ETL"
+  },
   "firebird": {
     "name": "Firebird",
+    "category": "Database"
+  },
+  "firestore": {
+    "name": "Firestore",
     "category": "Database"
   },
   "fivetran": {
@@ -87,6 +267,18 @@
     "name": "Google Sheets",
     "category": "Source System"
   },
+  "hadoop": {
+    "name": "Hadoop",
+    "category": "ETL"
+  },
+  "hashboard": {
+    "name": "Hashboard",
+    "category": "Business Intelligence"
+  },
+  "hbase": {
+    "name": "HBase",
+    "category": "Database"
+  },
   "hex": {
     "name": "Hex",
     "category": "Business Intelligence"
@@ -94,6 +286,26 @@
   "hightouch": {
     "name": "Hightouch",
     "category": "Reverse ETL"
+  },
+  "hive": {
+    "name": "Hive",
+    "category": "ETL"
+  },
+  "hop": {
+    "name": "Hop",
+    "category": "ETL"
+  },
+  "hubspot": {
+    "name": "Hubspot",
+    "category": "CRM"
+  },
+  "iceberg": {
+    "name": "Iceberg",
+    "category": "Data Lake"
+  },
+  "impala": {
+    "name": "Impala",
+    "category": "ETL"
   },
   "kafka": {
     "name": "Kafka",
@@ -103,8 +315,16 @@
     "name": "Looker",
     "category": "Business Intelligence"
   },
+  "mage": {
+    "name": "Mage",
+    "category": "ETL"
+  },
   "matillion": {
     "name": "Matillion",
+    "category": "ETL"
+  },
+  "meltano": {
+    "name": "Meltano",
     "category": "ETL"
   },
   "metabase": {
@@ -151,6 +371,46 @@
     "name": "Oracle",
     "category": "Database"
   },
+  "oracle_analytics_cloud": {
+    "name": "Oracle Analytics Cloud",
+    "category": "Business Intelligence"
+  },
+  "oracle_api_gateway": {
+    "name": "Oracle API Gateway",
+    "category": "API"
+  },
+  "oracle_api_service": {
+    "name": "Oracle API Service",
+    "category": "API"
+  },
+  "oracle_big_data": {
+    "name": "Oracle Big Data",
+    "category": "ETL"
+  },
+  "oracle_block_storage": {
+    "name": "Oracle Block Storage",
+    "category": "Data Lake"
+  },
+  "oracle_exadata_cloud_at_customer": {
+    "name": "Oracle Exadata Cloud at Customer",
+    "category": "Cloud Computing"
+  },
+  "oracle_functions": {
+    "name": "Oracle Functions",
+    "category": "ETL"
+  },
+  "oracle_migrate_autonomous_database": {
+    "name": "Oracle Migrate Autonomous Database",
+    "category": "ETL"
+  },
+  "oracle_mysql_database_system": {
+    "name": "Oracle MySQL Database System",
+    "category": "Database"
+  },
+  "oracle_object_storage": {
+    "name": "Oracle Object Storage",
+    "category": "Data Lake"
+  },
   "pagerduty": {
     "name": "PagerDuty",
     "category": "Communication"
@@ -171,9 +431,21 @@
     "name": "Power BI",
     "category": "Business Intelligence"
   },
+  "preset": {
+    "name": "Preset",
+    "category": "Business Intelligence"
+  },
+  "pub_sub": {
+    "name": "Pub/Sub",
+    "category": "ETL"
+  },
   "redshift": {
     "name": "Redshift",
     "category": "Database"
+  },
+  "rill": {
+    "name": "Rill",
+    "category": "Business Intelligence"
   },
   "salesforce": {
     "name": "Salesforce",
@@ -183,6 +455,10 @@
     "name": "Segment",
     "category": "ETL"
   },
+  "selectstar": {
+    "name": "Select Star",
+    "category": "Data Catalog"
+  },
   "sigma": {
     "name": "Sigma",
     "category": "Business Intelligence"
@@ -191,9 +467,21 @@
     "name": "Slack",
     "category": "Communication"
   },
+  "sling": {
+    "name": "Sling",
+    "category": "ETL"
+  },
   "snowflake": {
     "name": "Snowflake",
     "category": "Database"
+  },
+  "spark": {
+    "name": "Spark",
+    "category": "ETL"
+  },
+  "sqlmesh": {
+    "name": "sqlmesh",
+    "category": "Transform"
   },
   "sqlserver": {
     "name": "Microsoft SQL Server",
@@ -203,6 +491,10 @@
     "name": "Streamkap",
     "category": "ETL"
   },
+  "superset": {
+    "name": "Superset",
+    "category": "Business Intelligence"
+  },
   "tableau": {
     "name": "Tableau",
     "category": "Business Intelligence"
@@ -211,11 +503,27 @@
     "name": "Timeplus",
     "category": "Database"
   },
-   "trackingplan": {
+  "trackingplan": {
     "name": "Trackingplan",
     "category": "Data Observability"
   },
-    "zingg": {
+  "transfer_appliance": {
+    "name": "Transfer Appliance",
+    "category": "ETL"
+  },
+  "trino": {
+    "name": "Trino",
+    "category": "Database"
+  },
+  "vertex_ai": {
+    "name": "Vertex AI",
+    "category": "Business Intelligence"
+  },
+  "zeppelin": {
+    "name": "Zeppelin",
+    "category": "Business Intelligence"
+  },
+  "zingg": {
     "name": "Zingg",
     "category": "Entity Resolution"
   }
