@@ -479,6 +479,10 @@
     "name": "Spark",
     "category": "ETL"
   },
+  "sqlmesh": {
+    "name": "sqlmesh",
+    "category": "Transform"
+  },
   "sqlserver": {
     "name": "Microsoft SQL Server",
     "category": "Database"
