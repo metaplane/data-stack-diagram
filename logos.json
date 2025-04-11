@@ -511,6 +511,10 @@
     "name": "Transfer Appliance",
     "category": "ETL"
   },
+  "trino": {
+    "name": "Trino",
+    "category": "Database"
+  },
   "vertex_ai": {
     "name": "Vertex AI",
     "category": "Business Intelligence"
