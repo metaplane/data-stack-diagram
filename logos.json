@@ -1,8 +1,4 @@
 {
-  "ai_platform_notebooks": {
-    "name": "AI Platform Notebooks",
-    "category": "Business Intelligence"
-  },
   "airbyte": {
     "name": "Airbyte",
     "category": "ETL"
@@ -198,6 +194,10 @@
   "flink": {
     "name": "Flink",
     "category": "ETL"
+  },
+  "gcp_ai_platform_notebooks": {
+    "name": "AI Platform Notebooks",
+    "category": "Business Intelligence"
   },
   "gcp_bigquery": {
     "name": "BigQuery",
