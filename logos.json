@@ -291,13 +291,13 @@
     "name": "Hive",
     "category": "ETL"
   },
-  "hubspot": {
-    "name": "Hubspot",
-    "category": "CRM"
-  },
   "hop": {
     "name": "Hop",
     "category": "ETL"
+  },
+  "hubspot": {
+    "name": "Hubspot",
+    "category": "CRM"
   },
   "iceberg": {
     "name": "Iceberg",
